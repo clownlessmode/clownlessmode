@@ -4,7 +4,7 @@
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height='250'/>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/clownlessmode/rebellionai">RebellionAI</a>
+<li>🔭 I’m currently working on <a href="https://github.com/clownlessmode/rebellionai">RebellionIntelli</a>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/clownlessmode">Github</a>.</li>
 <li>📝 I <del>regulary</del> try to improve my level of development</li>
 <li>💬 Ping me about <strong>react, nextjs, security, and cloud stuff</strong>.</li>
