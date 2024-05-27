@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm <a href="https://t.me/purpletooth">Rodion</a></h2>
-<p>Founder of <strong><a href="https://t.me/purpletooth">Deadline Vchera</a></strong> and <strong><a href="https://t.me/purpletooth">Indus AI</a></strong>.<br/>I'm working on some side projects, teaching my friends how to code interesting things, and trying not to go crazy.</p>
+<p>Founder of <strong><a href="https://t.me/purpletooth">Deadline Vchera</a></strong> and <strong><a href="https://t.me/purpletooth">RebellionIntelli</a></strong>.<br/>I'm working on some side projects, teaching my friends how to code interesting things, and trying not to go crazy.</p>
 <p><a href="http://hits.dwyl.com/clownlessmode/clownlessmode/clownlessmode.svg?style=flat-square"><img src="https://hits.dwyl.com/clownlessmode/clownlessmode/clownlessmode.svg?style=flat-square" alt="HitCount"></a></p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height='250'/>
 <h2>⚡️ A Few Quick Facts</h2>
